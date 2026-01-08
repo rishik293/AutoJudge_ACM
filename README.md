@@ -42,9 +42,9 @@ Trained models are saved and reused during inference.
 ---
 
 ## Evaluation Metrics
-- Classification Accuracy: *(mention your actual value here)*  
-- Mean Absolute Error (MAE): *(value)*  
-- Root Mean Squared Error (RMSE): *(value)*  
+- Classification Accuracy: *56.62%*  
+- Mean Absolute Error (MAE): *1.723*  
+- Root Mean Squared Error (RMSE): *2.054*  
 
 ---
 
@@ -61,15 +61,9 @@ Trained models are saved and reused during inference.
 ## Steps to Run the Project Locally
 
 ```bash
-git clone <your-github-repo-link>
-cd AUTOJUDGE
+git clone github.com/rishik293/AutoJudge_ACM
 pip install -r requirements.txt
 streamlit run app.py
 
 Demo Video:
-📹 Demo Video Link: [Paste your 2–3 min video link here]
-
-##My Details
-Name: Your Name
-Institute: IIT Roorkee
-Project Type: Machine Learning & NLP
+📹 Demo Video and Report Link: "https://drive.google.com/drive/folders/1ehUS02gYyEfjvHtGY-LwpTC9EdfkWgyb?usp=sharing"
