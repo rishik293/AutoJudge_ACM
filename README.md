@@ -64,6 +64,6 @@ Trained models are saved and reused during inference.
 git clone github.com/rishik293/AutoJudge_ACM
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 Demo Video:
 📹 Demo Video and Report Link: "https://drive.google.com/drive/folders/1ehUS02gYyEfjvHtGY-LwpTC9EdfkWgyb?usp=sharing"
